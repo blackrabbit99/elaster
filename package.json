@@ -19,7 +19,7 @@
   "dependencies": {
     "async": "~0.8.0",
     "colors": "~0.6.2",
-    "elasticsearch": "~2.1.4",
+    "elasticsearch": "~8.0.1",
     "highland": "^2.5.1",
     "moment": "~2.6.0",
     "mongojs": "~0.13.0",
